@@ -1,0 +1,4972 @@
+{
+  "danger_zone": [
+    [
+      100.0,
+      150.0
+    ],
+    [
+      500.0,
+      150.0
+    ],
+    [
+      500.0,
+      450.0
+    ],
+    [
+      100.0,
+      450.0
+    ]
+  ],
+  "frames": [
+    {
+      "frame_id": 1,
+      "timestamp_sec": 0.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            150.0,
+            200.0,
+            240.0,
+            400.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            175.0,
+            200.0,
+            215.0,
+            235.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            160.0,
+            240.0,
+            230.0,
+            330.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            320.0,
+            220.0,
+            410.0,
+            420.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            330.0,
+            260.0,
+            400.0,
+            350.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            20.0,
+            20.0,
+            80.0,
+            120.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            400.0,
+            250.0,
+            485.0,
+            440.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            410.0,
+            285.0,
+            475.0,
+            370.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 2,
+      "timestamp_sec": 2.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            151.2,
+            200.8,
+            241.2,
+            400.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            176.2,
+            200.8,
+            216.2,
+            235.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            161.2,
+            240.8,
+            231.2,
+            330.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            320.5,
+            220.6,
+            410.5,
+            420.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            330.5,
+            260.6,
+            400.5,
+            350.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            20.4,
+            20.3,
+            80.4,
+            120.3
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            399.2,
+            250.4,
+            484.2,
+            440.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            409.2,
+            285.4,
+            474.2,
+            370.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 3,
+      "timestamp_sec": 5.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            152.4,
+            201.6,
+            242.4,
+            401.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            177.4,
+            201.6,
+            217.4,
+            236.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            162.4,
+            241.6,
+            232.4,
+            331.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            321.0,
+            221.2,
+            411.0,
+            421.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            331.0,
+            261.2,
+            401.0,
+            351.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            20.8,
+            20.6,
+            80.8,
+            120.6
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            398.4,
+            250.8,
+            483.4,
+            440.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            408.4,
+            285.8,
+            473.4,
+            370.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "timestamp_sec": 7.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            153.6,
+            202.4,
+            243.6,
+            402.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            178.6,
+            202.4,
+            218.6,
+            237.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            163.6,
+            242.4,
+            233.6,
+            332.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            321.5,
+            221.8,
+            411.5,
+            421.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            331.5,
+            261.8,
+            401.5,
+            351.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            21.2,
+            20.9,
+            81.2,
+            120.9
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            397.6,
+            251.2,
+            482.6,
+            441.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            407.6,
+            286.2,
+            472.6,
+            371.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "timestamp_sec": 10.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            154.8,
+            203.2,
+            244.8,
+            403.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            179.8,
+            203.2,
+            219.8,
+            238.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            164.8,
+            243.2,
+            234.8,
+            333.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            322.0,
+            222.4,
+            412.0,
+            422.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            332.0,
+            262.4,
+            402.0,
+            352.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            21.6,
+            21.2,
+            81.6,
+            121.2
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            396.8,
+            251.6,
+            481.8,
+            441.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            406.8,
+            286.6,
+            471.8,
+            371.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "timestamp_sec": 12.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            156.0,
+            204.0,
+            246.0,
+            404.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            181.0,
+            204.0,
+            221.0,
+            239.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            166.0,
+            244.0,
+            236.0,
+            334.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            322.5,
+            223.0,
+            412.5,
+            423.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            332.5,
+            263.0,
+            402.5,
+            353.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            22.0,
+            21.5,
+            82.0,
+            121.5
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            396.0,
+            252.0,
+            481.0,
+            442.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            406.0,
+            287.0,
+            471.0,
+            372.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "timestamp_sec": 15.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            157.2,
+            204.8,
+            247.2,
+            404.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            182.2,
+            204.8,
+            222.2,
+            239.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            167.2,
+            244.8,
+            237.2,
+            334.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            323.0,
+            223.6,
+            413.0,
+            423.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            333.0,
+            263.6,
+            403.0,
+            353.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            22.4,
+            21.8,
+            82.4,
+            121.8
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            395.2,
+            252.4,
+            480.2,
+            442.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            405.2,
+            287.4,
+            470.2,
+            372.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "timestamp_sec": 17.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            158.4,
+            205.6,
+            248.4,
+            405.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            183.4,
+            205.6,
+            223.4,
+            240.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            168.4,
+            245.6,
+            238.4,
+            335.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            323.5,
+            224.2,
+            413.5,
+            424.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            333.5,
+            264.2,
+            403.5,
+            354.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            22.8,
+            22.1,
+            82.8,
+            122.1
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            394.4,
+            252.8,
+            479.4,
+            442.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            404.4,
+            287.8,
+            469.4,
+            372.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "timestamp_sec": 20.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            159.6,
+            206.4,
+            249.6,
+            406.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            184.6,
+            206.4,
+            224.6,
+            241.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            169.6,
+            246.4,
+            239.6,
+            336.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            324.0,
+            224.8,
+            414.0,
+            424.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            334.0,
+            264.8,
+            404.0,
+            354.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            23.2,
+            22.4,
+            83.2,
+            122.4
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            393.6,
+            253.2,
+            478.6,
+            443.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            403.6,
+            288.2,
+            468.6,
+            373.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            413.6,
+            253.2,
+            458.6,
+            288.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "timestamp_sec": 22.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            160.8,
+            207.2,
+            250.8,
+            407.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            185.8,
+            207.2,
+            225.8,
+            242.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            170.8,
+            247.2,
+            240.8,
+            337.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            324.5,
+            225.4,
+            414.5,
+            425.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            334.5,
+            265.4,
+            404.5,
+            355.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            23.6,
+            22.7,
+            83.6,
+            122.7
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            392.8,
+            253.6,
+            477.8,
+            443.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            402.8,
+            288.6,
+            467.8,
+            373.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            412.8,
+            253.6,
+            457.8,
+            288.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "timestamp_sec": 25.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            162.0,
+            208.0,
+            252.0,
+            408.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            187.0,
+            208.0,
+            227.0,
+            243.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            172.0,
+            248.0,
+            242.0,
+            338.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            325.0,
+            226.0,
+            415.0,
+            426.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            335.0,
+            266.0,
+            405.0,
+            356.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            24.0,
+            23.0,
+            84.0,
+            123.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            392.0,
+            254.0,
+            477.0,
+            444.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            402.0,
+            289.0,
+            467.0,
+            374.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            412.0,
+            254.0,
+            457.0,
+            289.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "timestamp_sec": 27.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            163.2,
+            208.8,
+            253.2,
+            408.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            188.2,
+            208.8,
+            228.2,
+            243.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            173.2,
+            248.8,
+            243.2,
+            338.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            325.5,
+            226.6,
+            415.5,
+            426.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            335.5,
+            266.6,
+            405.5,
+            356.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            24.4,
+            23.3,
+            84.4,
+            123.3
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            391.2,
+            254.4,
+            476.2,
+            444.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            401.2,
+            289.4,
+            466.2,
+            374.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            411.2,
+            254.4,
+            456.2,
+            289.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "timestamp_sec": 30.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            164.4,
+            209.6,
+            254.4,
+            409.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            189.4,
+            209.6,
+            229.4,
+            244.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            174.4,
+            249.6,
+            244.4,
+            339.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            326.0,
+            227.2,
+            416.0,
+            427.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            336.0,
+            267.2,
+            406.0,
+            357.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            24.8,
+            23.6,
+            84.8,
+            123.6
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            390.4,
+            254.8,
+            475.4,
+            444.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            400.4,
+            289.8,
+            465.4,
+            374.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            410.4,
+            254.8,
+            455.4,
+            289.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "timestamp_sec": 32.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            165.6,
+            210.4,
+            255.6,
+            410.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            190.6,
+            210.4,
+            230.6,
+            245.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            175.6,
+            250.4,
+            245.6,
+            340.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            326.5,
+            227.8,
+            416.5,
+            427.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            336.5,
+            267.8,
+            406.5,
+            357.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            25.2,
+            23.9,
+            85.2,
+            123.9
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            389.6,
+            255.2,
+            474.6,
+            445.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            399.6,
+            290.2,
+            464.6,
+            375.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            409.6,
+            255.2,
+            454.6,
+            290.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "timestamp_sec": 35.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            166.8,
+            211.2,
+            256.8,
+            411.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            191.8,
+            211.2,
+            231.8,
+            246.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            176.8,
+            251.2,
+            246.8,
+            341.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            327.0,
+            228.4,
+            417.0,
+            428.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            337.0,
+            268.4,
+            407.0,
+            358.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            25.6,
+            24.2,
+            85.6,
+            124.2
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            388.8,
+            255.6,
+            473.8,
+            445.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            398.8,
+            290.6,
+            463.8,
+            375.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            408.8,
+            255.6,
+            453.8,
+            290.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "timestamp_sec": 37.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            168.0,
+            212.0,
+            258.0,
+            412.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            193.0,
+            212.0,
+            233.0,
+            247.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            178.0,
+            252.0,
+            248.0,
+            342.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            327.5,
+            229.0,
+            417.5,
+            429.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            337.5,
+            269.0,
+            407.5,
+            359.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            26.0,
+            24.5,
+            86.0,
+            124.5
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            388.0,
+            256.0,
+            473.0,
+            446.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            398.0,
+            291.0,
+            463.0,
+            376.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            408.0,
+            256.0,
+            453.0,
+            291.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "timestamp_sec": 40.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            169.2,
+            212.8,
+            259.2,
+            412.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            194.2,
+            212.8,
+            234.2,
+            247.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            179.2,
+            252.8,
+            249.2,
+            342.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            328.0,
+            229.6,
+            418.0,
+            429.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            338.0,
+            269.6,
+            408.0,
+            359.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            26.4,
+            24.8,
+            86.4,
+            124.8
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            220.0,
+            180.0,
+            305.0,
+            370.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            387.2,
+            256.4,
+            472.2,
+            446.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            397.2,
+            291.4,
+            462.2,
+            376.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            407.2,
+            256.4,
+            452.2,
+            291.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "timestamp_sec": 42.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            170.4,
+            213.6,
+            260.4,
+            413.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            195.4,
+            213.6,
+            235.4,
+            248.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            180.4,
+            253.6,
+            250.4,
+            343.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            328.5,
+            230.2,
+            418.5,
+            430.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            338.5,
+            270.2,
+            408.5,
+            360.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            26.8,
+            25.1,
+            86.8,
+            125.1
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            221.5,
+            181.0,
+            306.5,
+            371.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            386.4,
+            256.8,
+            471.4,
+            446.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            396.4,
+            291.8,
+            461.4,
+            376.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            406.4,
+            256.8,
+            451.4,
+            291.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "timestamp_sec": 45.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            171.6,
+            214.4,
+            261.6,
+            414.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            196.6,
+            214.4,
+            236.6,
+            249.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            181.6,
+            254.4,
+            251.6,
+            344.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            329.0,
+            230.8,
+            419.0,
+            430.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            339.0,
+            270.8,
+            409.0,
+            360.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            27.2,
+            25.4,
+            87.2,
+            125.4
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            223.0,
+            182.0,
+            308.0,
+            372.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            385.6,
+            257.2,
+            470.6,
+            447.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            395.6,
+            292.2,
+            460.6,
+            377.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            405.6,
+            257.2,
+            450.6,
+            292.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "timestamp_sec": 47.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            172.8,
+            215.2,
+            262.8,
+            415.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            197.8,
+            215.2,
+            237.8,
+            250.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            182.8,
+            255.2,
+            252.8,
+            345.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            329.5,
+            231.4,
+            419.5,
+            431.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            339.5,
+            271.4,
+            409.5,
+            361.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            27.6,
+            25.7,
+            87.6,
+            125.7
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            224.5,
+            183.0,
+            309.5,
+            373.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            384.8,
+            257.6,
+            469.8,
+            447.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            394.8,
+            292.6,
+            459.8,
+            377.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            404.8,
+            257.6,
+            449.8,
+            292.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "timestamp_sec": 50.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            174.0,
+            216.0,
+            264.0,
+            416.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            199.0,
+            216.0,
+            239.0,
+            251.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            184.0,
+            256.0,
+            254.0,
+            346.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            330.0,
+            232.0,
+            420.0,
+            432.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            340.0,
+            272.0,
+            410.0,
+            362.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            28.0,
+            26.0,
+            88.0,
+            126.0
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            226.0,
+            184.0,
+            311.0,
+            374.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            384.0,
+            258.0,
+            469.0,
+            448.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            394.0,
+            293.0,
+            459.0,
+            378.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            404.0,
+            258.0,
+            449.0,
+            293.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "timestamp_sec": 52.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            175.2,
+            216.8,
+            265.2,
+            416.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            200.2,
+            216.8,
+            240.2,
+            251.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            185.2,
+            256.8,
+            255.2,
+            346.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            330.5,
+            232.6,
+            420.5,
+            432.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            340.5,
+            272.6,
+            410.5,
+            362.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            28.4,
+            26.3,
+            88.4,
+            126.3
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            227.5,
+            185.0,
+            312.5,
+            375.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            383.2,
+            258.4,
+            468.2,
+            448.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            393.2,
+            293.4,
+            458.2,
+            378.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            403.2,
+            258.4,
+            448.2,
+            293.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "timestamp_sec": 55.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            176.4,
+            217.6,
+            266.4,
+            417.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            201.4,
+            217.6,
+            241.4,
+            252.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            186.4,
+            257.6,
+            256.4,
+            347.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            331.0,
+            233.2,
+            421.0,
+            433.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            341.0,
+            273.2,
+            411.0,
+            363.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            28.8,
+            26.6,
+            88.8,
+            126.6
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            229.0,
+            186.0,
+            314.0,
+            376.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            382.4,
+            258.8,
+            467.4,
+            448.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            392.4,
+            293.8,
+            457.4,
+            378.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            402.4,
+            258.8,
+            447.4,
+            293.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "timestamp_sec": 57.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            177.6,
+            218.4,
+            267.6,
+            418.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            202.6,
+            218.4,
+            242.6,
+            253.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            187.6,
+            258.4,
+            257.6,
+            348.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            331.5,
+            233.8,
+            421.5,
+            433.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            341.5,
+            273.8,
+            411.5,
+            363.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            29.200000000000003,
+            26.9,
+            89.2,
+            126.9
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            230.5,
+            187.0,
+            315.5,
+            377.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            381.6,
+            259.2,
+            466.6,
+            449.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            391.6,
+            294.2,
+            456.6,
+            379.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            401.6,
+            259.2,
+            446.6,
+            294.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 25,
+      "timestamp_sec": 60.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            178.8,
+            219.2,
+            268.8,
+            419.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            203.8,
+            219.2,
+            243.8,
+            254.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            188.8,
+            259.2,
+            258.8,
+            349.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            332.0,
+            234.4,
+            422.0,
+            434.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            342.0,
+            274.4,
+            412.0,
+            364.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            29.6,
+            27.2,
+            89.6,
+            127.2
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            232.0,
+            188.0,
+            317.0,
+            378.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            380.8,
+            259.6,
+            465.8,
+            449.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            390.8,
+            294.6,
+            455.8,
+            379.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            400.8,
+            259.6,
+            445.8,
+            294.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 26,
+      "timestamp_sec": 62.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            180.0,
+            220.0,
+            270.0,
+            420.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            205.0,
+            220.0,
+            245.0,
+            255.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            190.0,
+            260.0,
+            260.0,
+            350.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            332.5,
+            235.0,
+            422.5,
+            435.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            342.5,
+            275.0,
+            412.5,
+            365.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            30.0,
+            27.5,
+            90.0,
+            127.5
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            233.5,
+            189.0,
+            318.5,
+            379.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            380.0,
+            260.0,
+            465.0,
+            450.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            390.0,
+            295.0,
+            455.0,
+            380.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            400.0,
+            260.0,
+            445.0,
+            295.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 27,
+      "timestamp_sec": 65.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            181.2,
+            220.8,
+            271.2,
+            420.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            206.2,
+            220.8,
+            246.2,
+            255.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            191.2,
+            260.8,
+            261.2,
+            350.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            333.0,
+            235.6,
+            423.0,
+            435.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            343.0,
+            275.6,
+            413.0,
+            365.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            30.4,
+            27.8,
+            90.4,
+            127.8
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            235.0,
+            190.0,
+            320.0,
+            380.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            379.2,
+            260.4,
+            464.2,
+            450.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            389.2,
+            295.4,
+            454.2,
+            380.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            399.2,
+            260.4,
+            444.2,
+            295.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 28,
+      "timestamp_sec": 67.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            182.4,
+            221.6,
+            272.4,
+            421.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            207.4,
+            221.6,
+            247.4,
+            256.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            192.4,
+            261.6,
+            262.4,
+            351.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            333.5,
+            236.2,
+            423.5,
+            436.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            343.5,
+            276.2,
+            413.5,
+            366.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            30.8,
+            28.1,
+            90.8,
+            128.1
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            236.5,
+            191.0,
+            321.5,
+            381.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            378.4,
+            260.8,
+            463.4,
+            450.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            388.4,
+            295.8,
+            453.4,
+            380.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            398.4,
+            260.8,
+            443.4,
+            295.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 29,
+      "timestamp_sec": 70.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            183.6,
+            222.4,
+            273.6,
+            422.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            208.6,
+            222.4,
+            248.6,
+            257.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            193.6,
+            262.4,
+            263.6,
+            352.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            334.0,
+            236.8,
+            424.0,
+            436.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            344.0,
+            276.8,
+            414.0,
+            366.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            31.200000000000003,
+            28.4,
+            91.2,
+            128.4
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            238.0,
+            192.0,
+            323.0,
+            382.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            377.6,
+            261.2,
+            462.6,
+            451.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            387.6,
+            296.2,
+            452.6,
+            381.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            397.6,
+            261.2,
+            442.6,
+            296.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 30,
+      "timestamp_sec": 72.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            184.8,
+            223.2,
+            274.8,
+            423.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            209.8,
+            223.2,
+            249.8,
+            258.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            194.8,
+            263.2,
+            264.8,
+            353.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            334.5,
+            237.4,
+            424.5,
+            437.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            344.5,
+            277.4,
+            414.5,
+            367.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            31.6,
+            28.7,
+            91.6,
+            128.7
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            239.5,
+            193.0,
+            324.5,
+            383.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            376.8,
+            261.6,
+            461.8,
+            451.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            386.8,
+            296.6,
+            451.8,
+            381.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            396.8,
+            261.6,
+            441.8,
+            296.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 31,
+      "timestamp_sec": 75.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            186.0,
+            224.0,
+            276.0,
+            424.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            211.0,
+            224.0,
+            251.0,
+            259.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            196.0,
+            264.0,
+            266.0,
+            354.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            335.0,
+            238.0,
+            425.0,
+            438.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            345.0,
+            278.0,
+            415.0,
+            368.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            32.0,
+            29.0,
+            92.0,
+            129.0
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            241.0,
+            194.0,
+            326.0,
+            384.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            376.0,
+            262.0,
+            461.0,
+            452.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            386.0,
+            297.0,
+            451.0,
+            382.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            396.0,
+            262.0,
+            441.0,
+            297.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 32,
+      "timestamp_sec": 77.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            187.2,
+            224.8,
+            277.2,
+            424.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            212.2,
+            224.8,
+            252.2,
+            259.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            197.2,
+            264.8,
+            267.2,
+            354.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            335.5,
+            238.6,
+            425.5,
+            438.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            345.5,
+            278.6,
+            415.5,
+            368.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            32.4,
+            29.299999999999997,
+            92.4,
+            129.3
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            242.5,
+            195.0,
+            327.5,
+            385.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            375.2,
+            262.4,
+            460.2,
+            452.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            385.2,
+            297.4,
+            450.2,
+            382.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            395.2,
+            262.4,
+            440.2,
+            297.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 33,
+      "timestamp_sec": 80.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            188.4,
+            225.6,
+            278.4,
+            425.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            213.4,
+            225.6,
+            253.4,
+            260.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            198.4,
+            265.6,
+            268.4,
+            355.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            336.0,
+            239.2,
+            426.0,
+            439.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            346.0,
+            279.2,
+            416.0,
+            369.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            32.8,
+            29.6,
+            92.8,
+            129.6
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            244.0,
+            196.0,
+            329.0,
+            386.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            374.4,
+            262.8,
+            459.4,
+            452.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            384.4,
+            297.8,
+            449.4,
+            382.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            394.4,
+            262.8,
+            439.4,
+            297.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 34,
+      "timestamp_sec": 82.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            189.6,
+            226.4,
+            279.6,
+            426.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            214.6,
+            226.4,
+            254.6,
+            261.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            199.6,
+            266.4,
+            269.6,
+            356.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            336.5,
+            239.8,
+            426.5,
+            439.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            346.5,
+            279.8,
+            416.5,
+            369.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            33.2,
+            29.9,
+            93.2,
+            129.9
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            245.5,
+            197.0,
+            330.5,
+            387.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            373.6,
+            263.2,
+            458.6,
+            453.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            383.6,
+            298.2,
+            448.6,
+            383.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            393.6,
+            263.2,
+            438.6,
+            298.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 35,
+      "timestamp_sec": 85.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            190.8,
+            227.2,
+            280.8,
+            427.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            215.8,
+            227.2,
+            255.8,
+            262.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            200.8,
+            267.2,
+            270.8,
+            357.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            337.0,
+            240.4,
+            427.0,
+            440.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            347.0,
+            280.4,
+            417.0,
+            370.4
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            33.6,
+            30.2,
+            93.6,
+            130.2
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            247.0,
+            198.0,
+            332.0,
+            388.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            372.8,
+            263.6,
+            457.8,
+            453.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            382.8,
+            298.6,
+            447.8,
+            383.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            392.8,
+            263.6,
+            437.8,
+            298.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 36,
+      "timestamp_sec": 87.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            192.0,
+            228.0,
+            282.0,
+            428.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            217.0,
+            228.0,
+            257.0,
+            263.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            202.0,
+            268.0,
+            272.0,
+            358.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            337.5,
+            241.0,
+            427.5,
+            441.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            347.5,
+            281.0,
+            417.5,
+            371.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            34.0,
+            30.5,
+            94.0,
+            130.5
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            248.5,
+            199.0,
+            333.5,
+            389.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            372.0,
+            264.0,
+            457.0,
+            454.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            382.0,
+            299.0,
+            447.0,
+            384.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            392.0,
+            264.0,
+            437.0,
+            299.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 37,
+      "timestamp_sec": 90.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            193.2,
+            228.8,
+            283.2,
+            428.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            218.2,
+            228.8,
+            258.2,
+            263.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            203.2,
+            268.8,
+            273.2,
+            358.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            338.0,
+            241.6,
+            428.0,
+            441.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            348.0,
+            281.6,
+            418.0,
+            371.6
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            34.4,
+            30.799999999999997,
+            94.4,
+            130.8
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            250.0,
+            200.0,
+            335.0,
+            390.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            371.2,
+            264.4,
+            456.2,
+            454.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            381.2,
+            299.4,
+            446.2,
+            384.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            391.2,
+            264.4,
+            436.2,
+            299.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 38,
+      "timestamp_sec": 92.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            194.4,
+            229.6,
+            284.4,
+            429.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            219.4,
+            229.6,
+            259.4,
+            264.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            204.4,
+            269.6,
+            274.4,
+            359.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            338.5,
+            242.2,
+            428.5,
+            442.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            348.5,
+            282.2,
+            418.5,
+            372.2
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            34.8,
+            31.1,
+            94.8,
+            131.1
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            251.5,
+            201.0,
+            336.5,
+            391.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            370.4,
+            264.8,
+            455.4,
+            454.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            380.4,
+            299.8,
+            445.4,
+            384.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            390.4,
+            264.8,
+            435.4,
+            299.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 39,
+      "timestamp_sec": 95.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            195.6,
+            230.4,
+            285.6,
+            430.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            220.6,
+            230.4,
+            260.6,
+            265.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            205.6,
+            270.4,
+            275.6,
+            360.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            339.0,
+            242.8,
+            429.0,
+            442.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            349.0,
+            282.8,
+            419.0,
+            372.8
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            35.2,
+            31.4,
+            95.2,
+            131.4
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            253.0,
+            202.0,
+            338.0,
+            392.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            369.6,
+            265.2,
+            454.6,
+            455.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            379.6,
+            300.2,
+            444.6,
+            385.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            389.6,
+            265.2,
+            434.6,
+            300.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 40,
+      "timestamp_sec": 97.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            196.8,
+            231.2,
+            286.8,
+            431.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            221.8,
+            231.2,
+            261.8,
+            266.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            206.8,
+            271.2,
+            276.8,
+            361.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            35.6,
+            31.7,
+            95.6,
+            131.7
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            254.5,
+            203.0,
+            339.5,
+            393.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            368.8,
+            265.6,
+            453.8,
+            455.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            378.8,
+            300.6,
+            443.8,
+            385.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            388.8,
+            265.6,
+            433.8,
+            300.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 41,
+      "timestamp_sec": 100.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            198.0,
+            232.0,
+            288.0,
+            432.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            223.0,
+            232.0,
+            263.0,
+            267.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            208.0,
+            272.0,
+            278.0,
+            362.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            36.0,
+            32.0,
+            96.0,
+            132.0
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            256.0,
+            204.0,
+            341.0,
+            394.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            368.0,
+            266.0,
+            453.0,
+            456.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            378.0,
+            301.0,
+            443.0,
+            386.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            388.0,
+            266.0,
+            433.0,
+            301.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 42,
+      "timestamp_sec": 102.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            199.2,
+            232.8,
+            289.2,
+            432.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            224.2,
+            232.8,
+            264.2,
+            267.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            209.2,
+            272.8,
+            279.2,
+            362.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            36.400000000000006,
+            32.3,
+            96.4,
+            132.3
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            257.5,
+            205.0,
+            342.5,
+            395.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            367.2,
+            266.4,
+            452.2,
+            456.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            377.2,
+            301.4,
+            442.2,
+            386.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            387.2,
+            266.4,
+            432.2,
+            301.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 43,
+      "timestamp_sec": 105.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            200.4,
+            233.6,
+            290.4,
+            433.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            225.4,
+            233.6,
+            265.4,
+            268.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            210.4,
+            273.6,
+            280.4,
+            363.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            36.8,
+            32.6,
+            96.8,
+            132.6
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            259.0,
+            206.0,
+            344.0,
+            396.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            366.4,
+            266.8,
+            451.4,
+            456.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            376.4,
+            301.8,
+            441.4,
+            386.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            386.4,
+            266.8,
+            431.4,
+            301.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 44,
+      "timestamp_sec": 107.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            201.6,
+            234.4,
+            291.6,
+            434.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            226.6,
+            234.4,
+            266.6,
+            269.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            211.6,
+            274.4,
+            281.6,
+            364.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            37.2,
+            32.9,
+            97.2,
+            132.9
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            260.5,
+            207.0,
+            345.5,
+            397.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            365.6,
+            267.2,
+            450.6,
+            457.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            375.6,
+            302.2,
+            440.6,
+            387.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            385.6,
+            267.2,
+            430.6,
+            302.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 45,
+      "timestamp_sec": 110.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            202.8,
+            235.2,
+            292.8,
+            435.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            227.8,
+            235.2,
+            267.8,
+            270.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            212.8,
+            275.2,
+            282.8,
+            365.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            37.6,
+            33.2,
+            97.6,
+            133.2
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            262.0,
+            208.0,
+            347.0,
+            398.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            364.8,
+            267.6,
+            449.8,
+            457.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            374.8,
+            302.6,
+            439.8,
+            387.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            384.8,
+            267.6,
+            429.8,
+            302.6
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 46,
+      "timestamp_sec": 112.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            204.0,
+            236.0,
+            294.0,
+            436.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            229.0,
+            236.0,
+            269.0,
+            271.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            214.0,
+            276.0,
+            284.0,
+            366.0
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            38.0,
+            33.5,
+            98.0,
+            133.5
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            263.5,
+            209.0,
+            348.5,
+            399.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            364.0,
+            268.0,
+            449.0,
+            458.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            374.0,
+            303.0,
+            439.0,
+            388.0
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            384.0,
+            268.0,
+            429.0,
+            303.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 47,
+      "timestamp_sec": 115.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            205.2,
+            236.8,
+            295.2,
+            436.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            230.2,
+            236.8,
+            270.2,
+            271.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            215.2,
+            276.8,
+            285.2,
+            366.8
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            38.400000000000006,
+            33.8,
+            98.4,
+            133.8
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            265.0,
+            210.0,
+            350.0,
+            400.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            363.2,
+            268.4,
+            448.2,
+            458.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            373.2,
+            303.4,
+            438.2,
+            388.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            383.2,
+            268.4,
+            428.2,
+            303.4
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 48,
+      "timestamp_sec": 117.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            206.4,
+            237.6,
+            296.4,
+            437.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            231.4,
+            237.6,
+            271.4,
+            272.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            216.4,
+            277.6,
+            286.4,
+            367.6
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            38.8,
+            34.1,
+            98.8,
+            134.1
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            266.5,
+            211.0,
+            351.5,
+            401.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            362.4,
+            268.8,
+            447.4,
+            458.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            372.4,
+            303.8,
+            437.4,
+            388.8
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            382.4,
+            268.8,
+            427.4,
+            303.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 49,
+      "timestamp_sec": 120.0,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            207.6,
+            238.4,
+            297.6,
+            438.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            232.6,
+            238.4,
+            272.6,
+            273.4
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            217.6,
+            278.4,
+            287.6,
+            368.4
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            39.2,
+            34.4,
+            99.2,
+            134.4
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            268.0,
+            212.0,
+            353.0,
+            402.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            361.6,
+            269.2,
+            446.6,
+            459.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            371.6,
+            304.2,
+            436.6,
+            389.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            381.6,
+            269.2,
+            426.6,
+            304.2
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": 50,
+      "timestamp_sec": 122.5,
+      "detections": [
+        {
+          "track_id": 101,
+          "class": "person",
+          "bbox": [
+            208.8,
+            239.2,
+            298.8,
+            439.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            233.8,
+            239.2,
+            273.8,
+            274.2
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            218.8,
+            279.2,
+            288.8,
+            369.2
+          ]
+        },
+        {
+          "track_id": 102,
+          "class": "person",
+          "bbox": [
+            350.0,
+            490.0,
+            440.0,
+            690.0
+          ]
+        },
+        {
+          "track_id": 103,
+          "class": "person",
+          "bbox": [
+            39.6,
+            34.7,
+            99.6,
+            134.7
+          ]
+        },
+        {
+          "track_id": 104,
+          "class": "person",
+          "bbox": [
+            269.5,
+            213.0,
+            354.5,
+            403.0
+          ]
+        },
+        {
+          "track_id": 105,
+          "class": "person",
+          "bbox": [
+            360.8,
+            269.6,
+            445.8,
+            459.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "vest",
+          "bbox": [
+            370.8,
+            304.6,
+            435.8,
+            389.6
+          ]
+        },
+        {
+          "track_id": null,
+          "class": "helmet",
+          "bbox": [
+            380.8,
+            269.6,
+            425.8,
+            304.6
+          ]
+        }
+      ]
+    }
+  ]
+}

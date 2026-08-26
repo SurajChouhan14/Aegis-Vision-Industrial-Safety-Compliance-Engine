@@ -1,0 +1,2342 @@
+[
+  {
+    "frame_id": 1,
+    "timestamp_sec": 0.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 1,
+    "timestamp_sec": 0.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 1,
+    "timestamp_sec": 0.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 1,
+    "timestamp_sec": 0.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 2,
+    "timestamp_sec": 2.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 2,
+    "timestamp_sec": 2.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 2,
+    "timestamp_sec": 2.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 2,
+    "timestamp_sec": 2.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 3,
+    "timestamp_sec": 5.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 3,
+    "timestamp_sec": 5.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 3,
+    "timestamp_sec": 5.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 3,
+    "timestamp_sec": 5.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 4,
+    "timestamp_sec": 7.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 4,
+    "timestamp_sec": 7.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 4,
+    "timestamp_sec": 7.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 4,
+    "timestamp_sec": 7.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 5,
+    "timestamp_sec": 10.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 5,
+    "timestamp_sec": 10.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 5,
+    "timestamp_sec": 10.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 5,
+    "timestamp_sec": 10.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 6,
+    "timestamp_sec": 12.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 6,
+    "timestamp_sec": 12.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 6,
+    "timestamp_sec": 12.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 6,
+    "timestamp_sec": 12.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 7,
+    "timestamp_sec": 15.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 7,
+    "timestamp_sec": 15.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 7,
+    "timestamp_sec": 15.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 7,
+    "timestamp_sec": 15.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 8,
+    "timestamp_sec": 17.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 8,
+    "timestamp_sec": 17.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 8,
+    "timestamp_sec": 17.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 8,
+    "timestamp_sec": 17.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 9,
+    "timestamp_sec": 20.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 9,
+    "timestamp_sec": 20.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 9,
+    "timestamp_sec": 20.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 9,
+    "timestamp_sec": 20.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "DEBOUNCE_BUFFER"
+  },
+  {
+    "frame_id": 10,
+    "timestamp_sec": 22.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 10,
+    "timestamp_sec": 22.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 10,
+    "timestamp_sec": 22.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 10,
+    "timestamp_sec": 22.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "CLEARED"
+  },
+  {
+    "frame_id": 11,
+    "timestamp_sec": 25.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 11,
+    "timestamp_sec": 25.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 11,
+    "timestamp_sec": 25.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 11,
+    "timestamp_sec": 25.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 12,
+    "timestamp_sec": 27.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 12,
+    "timestamp_sec": 27.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 12,
+    "timestamp_sec": 27.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 12,
+    "timestamp_sec": 27.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 13,
+    "timestamp_sec": 30.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 13,
+    "timestamp_sec": 30.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "ALARMING",
+    "action": "TRIGGER_AUDIBLE_ALARM"
+  },
+  {
+    "frame_id": 13,
+    "timestamp_sec": 30.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 13,
+    "timestamp_sec": 30.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 14,
+    "timestamp_sec": 32.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 14,
+    "timestamp_sec": 32.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "ALARMING",
+    "action": "ALARM_ACTIVE"
+  },
+  {
+    "frame_id": 14,
+    "timestamp_sec": 32.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 14,
+    "timestamp_sec": 32.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 15,
+    "timestamp_sec": 35.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 15,
+    "timestamp_sec": 35.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "ALARMING",
+    "action": "ALARM_ACTIVE"
+  },
+  {
+    "frame_id": 15,
+    "timestamp_sec": 35.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 15,
+    "timestamp_sec": 35.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 16,
+    "timestamp_sec": 37.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 16,
+    "timestamp_sec": 37.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "ALARMING",
+    "action": "ALARM_ACTIVE"
+  },
+  {
+    "frame_id": 16,
+    "timestamp_sec": 37.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 16,
+    "timestamp_sec": 37.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 17,
+    "timestamp_sec": 40.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 17,
+    "timestamp_sec": 40.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "PERIODIC_WARNING"
+  },
+  {
+    "frame_id": 17,
+    "timestamp_sec": 40.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 17,
+    "timestamp_sec": 40.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 17,
+    "timestamp_sec": 40.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 18,
+    "timestamp_sec": 42.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 18,
+    "timestamp_sec": 42.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 18,
+    "timestamp_sec": 42.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 18,
+    "timestamp_sec": 42.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 18,
+    "timestamp_sec": 42.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 19,
+    "timestamp_sec": 45.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 19,
+    "timestamp_sec": 45.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 19,
+    "timestamp_sec": 45.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 19,
+    "timestamp_sec": 45.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 19,
+    "timestamp_sec": 45.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 20,
+    "timestamp_sec": 47.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 20,
+    "timestamp_sec": 47.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 20,
+    "timestamp_sec": 47.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 20,
+    "timestamp_sec": 47.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 20,
+    "timestamp_sec": 47.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 21,
+    "timestamp_sec": 50.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 21,
+    "timestamp_sec": 50.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 21,
+    "timestamp_sec": 50.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 21,
+    "timestamp_sec": 50.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 21,
+    "timestamp_sec": 50.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 22,
+    "timestamp_sec": 52.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 22,
+    "timestamp_sec": 52.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 22,
+    "timestamp_sec": 52.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 22,
+    "timestamp_sec": 52.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 22,
+    "timestamp_sec": 52.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 23,
+    "timestamp_sec": 55.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 23,
+    "timestamp_sec": 55.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 23,
+    "timestamp_sec": 55.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 23,
+    "timestamp_sec": 55.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 23,
+    "timestamp_sec": 55.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 24,
+    "timestamp_sec": 57.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 24,
+    "timestamp_sec": 57.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 24,
+    "timestamp_sec": 57.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 24,
+    "timestamp_sec": 57.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 24,
+    "timestamp_sec": 57.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 25,
+    "timestamp_sec": 60.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 25,
+    "timestamp_sec": 60.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "PERIODIC_WARNING"
+  },
+  {
+    "frame_id": 25,
+    "timestamp_sec": 60.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 25,
+    "timestamp_sec": 60.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 25,
+    "timestamp_sec": 60.0,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 26,
+    "timestamp_sec": 62.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 26,
+    "timestamp_sec": 62.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 26,
+    "timestamp_sec": 62.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 26,
+    "timestamp_sec": 62.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 26,
+    "timestamp_sec": 62.5,
+    "track_id": 105,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 27,
+    "timestamp_sec": 65.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 27,
+    "timestamp_sec": 65.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 27,
+    "timestamp_sec": 65.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 27,
+    "timestamp_sec": 65.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 27,
+    "timestamp_sec": 65.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 28,
+    "timestamp_sec": 67.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 28,
+    "timestamp_sec": 67.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 28,
+    "timestamp_sec": 67.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 28,
+    "timestamp_sec": 67.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "PENDING",
+    "action": "GRACE_PERIOD_ACTIVE"
+  },
+  {
+    "frame_id": 28,
+    "timestamp_sec": 67.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 29,
+    "timestamp_sec": 70.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 29,
+    "timestamp_sec": 70.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 29,
+    "timestamp_sec": 70.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 29,
+    "timestamp_sec": 70.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "ALARMING",
+    "action": "TRIGGER_AUDIBLE_ALARM"
+  },
+  {
+    "frame_id": 29,
+    "timestamp_sec": 70.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 30,
+    "timestamp_sec": 72.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 30,
+    "timestamp_sec": 72.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "REMINDING",
+    "action": "DEBOUNCE_BUFFER"
+  },
+  {
+    "frame_id": 30,
+    "timestamp_sec": 72.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 30,
+    "timestamp_sec": 72.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "ALARMING",
+    "action": "ALARM_ACTIVE"
+  },
+  {
+    "frame_id": 30,
+    "timestamp_sec": 72.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 31,
+    "timestamp_sec": 75.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 31,
+    "timestamp_sec": 75.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "CLEARED"
+  },
+  {
+    "frame_id": 31,
+    "timestamp_sec": 75.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 31,
+    "timestamp_sec": 75.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "ALARMING",
+    "action": "ALARM_ACTIVE"
+  },
+  {
+    "frame_id": 31,
+    "timestamp_sec": 75.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 32,
+    "timestamp_sec": 77.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 32,
+    "timestamp_sec": 77.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 32,
+    "timestamp_sec": 77.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 32,
+    "timestamp_sec": 77.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "ALARMING",
+    "action": "ALARM_ACTIVE"
+  },
+  {
+    "frame_id": 32,
+    "timestamp_sec": 77.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 33,
+    "timestamp_sec": 80.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 33,
+    "timestamp_sec": 80.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 33,
+    "timestamp_sec": 80.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 33,
+    "timestamp_sec": 80.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "PERIODIC_WARNING"
+  },
+  {
+    "frame_id": 33,
+    "timestamp_sec": 80.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 34,
+    "timestamp_sec": 82.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 34,
+    "timestamp_sec": 82.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 34,
+    "timestamp_sec": 82.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 34,
+    "timestamp_sec": 82.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 34,
+    "timestamp_sec": 82.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 35,
+    "timestamp_sec": 85.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 35,
+    "timestamp_sec": 85.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 35,
+    "timestamp_sec": 85.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 35,
+    "timestamp_sec": 85.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 35,
+    "timestamp_sec": 85.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 36,
+    "timestamp_sec": 87.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 36,
+    "timestamp_sec": 87.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 36,
+    "timestamp_sec": 87.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 36,
+    "timestamp_sec": 87.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 36,
+    "timestamp_sec": 87.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 37,
+    "timestamp_sec": 90.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 37,
+    "timestamp_sec": 90.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 37,
+    "timestamp_sec": 90.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 37,
+    "timestamp_sec": 90.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 37,
+    "timestamp_sec": 90.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 38,
+    "timestamp_sec": 92.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 38,
+    "timestamp_sec": 92.5,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 38,
+    "timestamp_sec": 92.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 38,
+    "timestamp_sec": 92.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 38,
+    "timestamp_sec": 92.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 39,
+    "timestamp_sec": 95.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 39,
+    "timestamp_sec": 95.0,
+    "track_id": 102,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 39,
+    "timestamp_sec": 95.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 39,
+    "timestamp_sec": 95.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 39,
+    "timestamp_sec": 95.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 40,
+    "timestamp_sec": 97.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 40,
+    "timestamp_sec": 97.5,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 40,
+    "timestamp_sec": 97.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 40,
+    "timestamp_sec": 97.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 40,
+    "timestamp_sec": 97.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 41,
+    "timestamp_sec": 100.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 41,
+    "timestamp_sec": 100.0,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 41,
+    "timestamp_sec": 100.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 41,
+    "timestamp_sec": 100.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "PERIODIC_WARNING"
+  },
+  {
+    "frame_id": 41,
+    "timestamp_sec": 100.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 42,
+    "timestamp_sec": 102.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 42,
+    "timestamp_sec": 102.5,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 42,
+    "timestamp_sec": 102.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 42,
+    "timestamp_sec": 102.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 42,
+    "timestamp_sec": 102.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 43,
+    "timestamp_sec": 105.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 43,
+    "timestamp_sec": 105.0,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 43,
+    "timestamp_sec": 105.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 43,
+    "timestamp_sec": 105.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 43,
+    "timestamp_sec": 105.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 44,
+    "timestamp_sec": 107.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 44,
+    "timestamp_sec": 107.5,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 44,
+    "timestamp_sec": 107.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 44,
+    "timestamp_sec": 107.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 44,
+    "timestamp_sec": 107.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 45,
+    "timestamp_sec": 110.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 45,
+    "timestamp_sec": 110.0,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 45,
+    "timestamp_sec": 110.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 45,
+    "timestamp_sec": 110.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 45,
+    "timestamp_sec": 110.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 46,
+    "timestamp_sec": 112.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 46,
+    "timestamp_sec": 112.5,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 46,
+    "timestamp_sec": 112.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 46,
+    "timestamp_sec": 112.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 46,
+    "timestamp_sec": 112.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 47,
+    "timestamp_sec": 115.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 47,
+    "timestamp_sec": 115.0,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 47,
+    "timestamp_sec": 115.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 47,
+    "timestamp_sec": 115.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 47,
+    "timestamp_sec": 115.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 48,
+    "timestamp_sec": 117.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 48,
+    "timestamp_sec": 117.5,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 48,
+    "timestamp_sec": 117.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 48,
+    "timestamp_sec": 117.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 48,
+    "timestamp_sec": 117.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 49,
+    "timestamp_sec": 120.0,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 49,
+    "timestamp_sec": 120.0,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 49,
+    "timestamp_sec": 120.0,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 49,
+    "timestamp_sec": 120.0,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "PERIODIC_WARNING"
+  },
+  {
+    "frame_id": 49,
+    "timestamp_sec": 120.0,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 50,
+    "timestamp_sec": 122.5,
+    "track_id": 101,
+    "in_danger_zone": true,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 50,
+    "timestamp_sec": 122.5,
+    "track_id": 102,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 50,
+    "timestamp_sec": 122.5,
+    "track_id": 103,
+    "in_danger_zone": false,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  },
+  {
+    "frame_id": 50,
+    "timestamp_sec": 122.5,
+    "track_id": 104,
+    "in_danger_zone": true,
+    "has_helmet": false,
+    "has_vest": false,
+    "state": "REMINDING",
+    "action": "MONITORING"
+  },
+  {
+    "frame_id": 50,
+    "timestamp_sec": 122.5,
+    "track_id": 105,
+    "in_danger_zone": false,
+    "has_helmet": true,
+    "has_vest": true,
+    "state": "COMPLIANT",
+    "action": "NONE"
+  }
+]
