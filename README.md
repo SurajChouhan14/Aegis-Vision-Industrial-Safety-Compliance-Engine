@@ -109,7 +109,7 @@ Aegis-Vision-Industrial-Safety-Compliance-Engine/
 
 ```bash
 # 1. Clone repository and install dependencies
-git clone https://github.com/your-username/Aegis-Vision-Industrial-Safety-Compliance-Engine.git
+git clone https://github.com/SurajChouhan14/Aegis-Vision-Industrial-Safety-Compliance-Engine.git
 cd Aegis-Vision-Industrial-Safety-Compliance-Engine
 pip install -r requirements.txt
 
