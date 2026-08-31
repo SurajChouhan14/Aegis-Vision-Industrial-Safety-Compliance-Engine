@@ -1,10 +1,10 @@
 """
-Industrial Factory Surveillance Stream & Danger Zone Benchmark Loader.
-Generates multi-frame surveillance video sequences (50 frames) across factory zones with:
-- Multiple worker trajectories (Track IDs: 101 to 106)
-- Ground-truth bounding boxes for workers, hardhats/helmets, and high-visibility safety vests
-- Realistic entries/exits into restricted heavy-machinery polygons
-- Timestamp tracking over 120+ seconds of operational surveillance
+Synthetic CCTV Scenario Stream & Danger Zone Benchmark Loader.
+Generates multi-frame synthetic CCTV surveillance sequences (50 scripted keyframes over 122.5s) across factory zones with:
+- Deterministic worker trajectories (Track IDs: 101 to 105)
+- Ground-truth spatial bounding boxes for workers, hardhats/helmets, and high-visibility safety vests
+- Realistic entries/exits into restricted heavy-machinery danger polygon
+- Timestamp tracking over 122.5 seconds of operational surveillance
 """
 
 import json
@@ -14,7 +14,7 @@ from typing import List, Dict, Any, Tuple
 
 class IndustrialSurveillanceLoader:
     """
-    Manages multi-frame surveillance video streams and ground-truth worker safety benchmarks.
+    Manages synthetic multi-frame surveillance video streams and ground-truth worker safety benchmarks.
     """
 
     def __init__(self, data_dir: str = "data"):
@@ -24,7 +24,7 @@ class IndustrialSurveillanceLoader:
 
     def load_or_create_stream(self) -> Tuple[List[List[float]], List[Dict[str, Any]]]:
         """
-        Loads or generates a continuous 50-frame factory surveillance stream with diverse worker scenarios.
+        Loads or generates a synthetic 50-frame factory surveillance stream with diverse worker scenarios.
         """
         if os.path.exists(self.stream_path):
             try:
@@ -39,16 +39,15 @@ class IndustrialSurveillanceLoader:
 
     def generate_and_save_surveillance_stream(self) -> Tuple[List[List[float]], List[Dict[str, Any]]]:
         """
-        Generates 50 continuous surveillance frames over 120 seconds.
+        Generates 50 synthetic surveillance keyframes over 122.5 seconds.
         Danger Zone: Restricted Heavy-Machinery Polygon [[100, 150], [500, 150], [500, 450], [100, 450]]
 
-        Worker Scenarios:
+        Scripted Worker Scenarios:
         - Worker 101: Fully Compliant (Helmet + Vest). Enters danger zone at t=0s, stays inside throughout. State: COMPLIANT (0 alarms).
         - Worker 102: Missing Helmet (Has Vest). Enters danger zone at t=0s. Transitions: PENDING (t=0-30s) -> ALARMING (t=31-40s) -> REMINDING (t=41-90s) -> Exits zone at t=95s -> Cleared.
         - Worker 103: Safe Assembly Zone (No PPE). Operates strictly outside danger zone (X=20..80, Y=20..120). State: COMPLIANT (Zero false positives outside zone).
-        - Worker 104: Complete Non-Compliance (No Helmet, No Vest). Enters danger zone at t=40s. Transitions: PENDING -> ALARMING -> Escalated.
-        - Worker 105: Dynamic Gear Donning (Starts non-compliant, dons helmet at t=25s before grace period expires). Transitions: PENDING -> COMPLIANT (Grace period prevents false alarm).
-        - Worker 106: Peripheral Walker (Walks along boundary without breaching polygon).
+        - Worker 104: Complete Non-Compliance (No Helmet, No Vest). Enters danger zone at t=40s. Transitions: PENDING (t=40-70s) -> ALARMING (t=71-80s) -> REMINDING (t=81-122.5s).
+        - Worker 105: Dynamic Gear Donning (Starts non-compliant, dons helmet at t=20s before 30s grace period expires). Transitions: PENDING -> COMPLIANT (Grace period prevents false alarm).
         """
         danger_zone_polygon = [[100.0, 150.0], [500.0, 150.0], [500.0, 450.0], [100.0, 450.0]]
 
@@ -82,7 +81,7 @@ class IndustrialSurveillanceLoader:
                 # Vest only (NO helmet)
                 frame_detections.append({"track_id": None, "class": "vest", "bbox": [w102_x + 10.0, w102_y + 40.0, w102_x + 80.0, w102_y + 130.0]})
             else:
-                # Exits to safe zone (Y=480 > 450)
+                # Exits to safe zone (Y=490 > 450)
                 w102_bbox = [350.0, 490.0, 440.0, 690.0]
                 frame_detections.append({"track_id": 102, "class": "person", "bbox": w102_bbox})
 
@@ -112,7 +111,7 @@ class IndustrialSurveillanceLoader:
             frame_detections.append({"track_id": 105, "class": "person", "bbox": w105_bbox})
             frame_detections.append({"track_id": None, "class": "vest", "bbox": [w105_x + 10.0, w105_y + 35.0, w105_x + 75.0, w105_y + 120.0]})
             if timestamp >= 20.0:
-                # Dons helmet before 30s grace period expires!
+                # Dons helmet at t=20s before 30s grace period expires!
                 frame_detections.append({"track_id": None, "class": "helmet", "bbox": [w105_x + 20.0, w105_y, w105_x + 65.0, w105_y + 35.0]})
 
             frames.append({

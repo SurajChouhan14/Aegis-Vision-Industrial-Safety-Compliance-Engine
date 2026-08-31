@@ -1304,10 +1304,10 @@
     "timestamp_sec": 72.5,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
     "state": "REMINDING",
-    "action": "DEBOUNCE_BUFFER"
+    "action": "MONITORING"
   },
   {
     "frame_id": 30,
@@ -1354,10 +1354,10 @@
     "timestamp_sec": 75.0,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "CLEARED"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 31,
@@ -1404,10 +1404,10 @@
     "timestamp_sec": 77.5,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 32,
@@ -1454,10 +1454,10 @@
     "timestamp_sec": 80.0,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "PERIODIC_WARNING"
   },
   {
     "frame_id": 33,
@@ -1504,10 +1504,10 @@
     "timestamp_sec": 82.5,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 34,
@@ -1554,10 +1554,10 @@
     "timestamp_sec": 85.0,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 35,
@@ -1604,10 +1604,10 @@
     "timestamp_sec": 87.5,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 36,
@@ -1654,10 +1654,10 @@
     "timestamp_sec": 90.0,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 37,
@@ -1704,10 +1704,10 @@
     "timestamp_sec": 92.5,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 38,
@@ -1754,10 +1754,10 @@
     "timestamp_sec": 95.0,
     "track_id": 102,
     "in_danger_zone": true,
-    "has_helmet": true,
+    "has_helmet": false,
     "has_vest": true,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "MONITORING"
   },
   {
     "frame_id": 39,
@@ -1806,8 +1806,8 @@
     "in_danger_zone": false,
     "has_helmet": false,
     "has_vest": false,
-    "state": "COMPLIANT",
-    "action": "NONE"
+    "state": "REMINDING",
+    "action": "DEBOUNCE_BUFFER"
   },
   {
     "frame_id": 40,
@@ -1857,7 +1857,7 @@
     "has_helmet": false,
     "has_vest": false,
     "state": "COMPLIANT",
-    "action": "NONE"
+    "action": "CLEARED"
   },
   {
     "frame_id": 41,
